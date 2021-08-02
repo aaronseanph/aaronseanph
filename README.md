@@ -18,5 +18,3 @@
 <p><img align="left" src="https://readme-stats-aaronseanph.vercel.app/api/top-langs?username=aaronseanph&show_icons=true&locale=en&layout=compact" alt="aaronseanph" /></p>
 
 <p>&nbsp;<img align="center" src="https://readme-stats-aaronseanph.vercel.app/api?username=aaronseanph&show_icons=true&locale=en&count_private=true" alt="aaronseanph" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aaronseanph&" alt="aaronseanph" /></p>
