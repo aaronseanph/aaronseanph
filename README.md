@@ -1,9 +1,9 @@
 <h1 align="center">👋 Hello there! I'm Aaron Sean Cubacub</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aaronseanph&label=Profile%20views&color=0e75b6&style=flat" alt="aaronseanph" /> </p>
 
-- 👨‍💻 I’m currently working as a Lead Developer for **Designly**
+- 👨‍💻 I’m currently working as a Lead Developer for **Website Blue & Designly**
 
-- 🌱 I’m currently learning **everything about DevOps**
+- 🌱 I’m currently learning **DevOps**
 
 - 📫 How to reach me **hello@aaronsean.com**
 
